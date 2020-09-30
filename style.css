@@ -1,0 +1,45 @@
+/**{
+    border: solid;
+}*/
+
+body{
+    background-color: lightblue;
+}
+
+.con{
+    background-color: coral;
+    padding: 5px;
+}
+
+.sends{
+    display: flex;
+    background-color: cornflowerblue;
+    justify-content: space-evenly;
+}
+
+.sends a:hover{
+    display: flex;
+    background-color: darkorchid;
+    justify-content: space-evenly;
+    transform: scale(1.2) rotate(20deg);
+}
+
+h3{
+    background-color: cornflowerblue;
+}
+
+h3:hover{
+    background-color: lightskyblue;
+}
+
+img:hover{
+    transform: scale(0.9) rotate(20deg);
+}
+
+a:link{
+    color: rgb(42, 6, 42);
+}
+
+a:visited{
+    color: rgb(42, 6, 42);
+}
